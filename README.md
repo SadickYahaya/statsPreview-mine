@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/SadickYahaya/Interactive-Rating-Component)
-- Live Site URL: [Add live site URL here](https://app.netlify.com/sites/interactive-rating-component2022/settings/general)
+- Solution URL: [https://github.com/SadickYahaya/Interactive-Rating-Component](https://github.com/SadickYahaya/Interactive-Rating-Component)
+- Live Site URL: [https://interactive-rating-component2022.netlify.app/](https://interactive-rating-component2022.netlify.app/)
 
 ## My process
 
